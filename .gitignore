@@ -1,0 +1,6 @@
+churn.db
+__pycache__/
+*.pyc
+.venv/
+outputs/
+data/processed/telco_clean.parquet
